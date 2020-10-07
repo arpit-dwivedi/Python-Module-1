@@ -21,7 +21,7 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 9. [Part5: Loops in Python](https://github.com/DevIncept/Python-Module-1/blob/master/Part5-Loops.md)
 10. [Part5: Loops in Python Notebook](https://github.com/DevIncept/Python-Module-1/blob/master/Part5-Loops.ipynb)
 11. [Part6: Data Structures](https://github.com/DevIncept/Python-Module-1/blob/master/Part6-Data-Structures.md)
-12. [Part7: Tuples](https://github.com/DevIncept/Python-Module-1/blob/master/Part7-Tuple.md)
+12. [Part7: Tuples](https://github.com/DevIncept/Python-Module-1/blob/master/Part7-Tuples.md)
 13. [Part7: Tuples Notebook](https://github.com/DevIncept/Python-Module-1/blob/master/Part7-Tuples.ipynb)
 14. [Part8: Sets](https://github.com/DevIncept/Python-Module-1/blob/master/Part8-Sets.md)
 15. [Part8: Sets Notebook](https://github.com/DevIncept/Python-Module-1/blob/master/Part8-Sets.ipynb)
