@@ -27,4 +27,5 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 13. [Part7: Tuples Notebook](https://github.com/DevIncept/Python-Module-1/blob/master/Part7-Tuples.ipynb)
 14. [Part8: Sets](https://github.com/DevIncept/Python-Module-1/blob/master/Part8-Sets.md)
 15. [Part8: Sets Notebook](https://github.com/DevIncept/Python-Module-1/blob/master/Part8-Sets.ipynb)
-16. **Competition-Python :** On Weekends, details will be shared on Slack.
+16. **Competition-Python :** Link of HackerRank competition is in the competiton file, sign up and test your knowledge.
+- [Competition- Python](https://github.com/DevIncept/Python-Module-1/blob/master/Competition-python.md)
